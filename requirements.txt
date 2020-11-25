@@ -1,6 +1,6 @@
 pandas
 sklearn
-pprint
 collections
 string  
 re
+pprint
