@@ -1,7 +1,6 @@
-  pandas
-  string
-  re
-  pprint
-  collections
-  sklearn
-  
+pandas
+re
+pprint
+collections
+sklearn
+string  
