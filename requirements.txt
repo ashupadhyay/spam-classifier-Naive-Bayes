@@ -1,6 +1,6 @@
 pandas
-re
+sklearn
 pprint
 collections
-sklearn
 string  
+re
